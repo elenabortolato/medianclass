@@ -1,0 +1,11 @@
+Package: medianclass
+Type: Package
+Title: median for data in classes
+Version: 0.1.0
+Author: Elena Bortolato
+Maintainer: Elena Bortolato <ele.bortolato@gmail.com>
+Description: calculates the median with numerical data in classes
+License: 
+Encoding: 
+LazyData: FALSE
+RoxygenNote: 7.1.1
